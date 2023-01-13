@@ -36,7 +36,7 @@ li {
 /* ------------------- */
 
 .informacion-general {
-    padding: 100px 88px;
+    padding: 100px 50px;
 }
 
 /* Descripción */
@@ -201,6 +201,13 @@ li {
     width: 30px;
     margin-bottom: -11px;
 }
+
+.logo-linkedin {
+    width: 20px;
+    margin-bottom: -5px;
+    padding-left: 5px;
+    padding-right: 5px;
+} 
 
 .contacto-info {
     color: #FFFFFF;
